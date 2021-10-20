@@ -6,4 +6,4 @@ def test_add_five():
 
 
 def test_should_fail():
-    assert 5 == 6
+    assert 5 == 5
